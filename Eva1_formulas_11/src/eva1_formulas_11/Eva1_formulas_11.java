@@ -17,12 +17,11 @@ public class Eva1_formulas_11 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //Pidele al usuario los datos para calcular la distancia
-        // en java
+       
         
-        //Declarar variables
+        
         double dDistancia, dVelocidad, dTiempo, dAceleracion;
-        //Pedir datos al usuario
+        
 
         Scanner input = new Scanner(System.in);
         System.out.println("Introduce la velocidad: ");
